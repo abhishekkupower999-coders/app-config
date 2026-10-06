@@ -7,8 +7,8 @@
     "title": "Update Required",
     "description": "Please update to the latest version.",
     "isForce": false,
-    "isExpired": false,
-    "expiryDate": "2030-10-06",
+    "isExpired": True,
+    "expiryDate": "2026-01-01",
     "closeButtonText": "Cancel",
     "updateButtonText": "Update Now"
   }
