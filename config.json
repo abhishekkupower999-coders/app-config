@@ -1,4 +1,15 @@
-{
-  "LockApp": false,
-  "Link": "https://t.me/AZEEDITINGZONE"
-}
+[
+  {
+    "appName": "CapCut",
+    "packageName": "com.lemon.lvoverseas",
+    "versionCode": 19101601,
+    "updateUrl": "https://t.me/AZEEDITINGZONE",
+    "title": "Update Required",
+    "description": "Please update to the latest version.",
+    "isForce": false,
+    "isExpired": false,
+    "expiryDate": "2030-10-06",
+    "closeButtonText": "Cancel",
+    "updateButtonText": "Update Now"
+  }
+]
